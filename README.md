@@ -18,7 +18,7 @@ Hi! I’m a graduate student in **Computer Science** at **UMBC**, with a focus o
 - 💻 **HPC Support:** Supported over 1,000 researchers as part of **UMBC's HPC team**  
 - 🎓 **Current Work:** Pursuing an MS thesis on **Computer Vision for monitoring fish behavior in Recirculating Aquaculture Systems**  
 - 🤝 **Collaboration:** I love connecting with people to discuss ideas and projects  
-- 📧 **Contact:** Reach me via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/beamlak-bekele/) or email  
+- 📧 **Contact:** Reach me via [LinkedIn](https://www.linkedin.com/in/beamlak-bekele/) or email  
 - 🌱 **Learning & Sharing:** Always exploring new technologies, creating projects, and educating others  
 
 
