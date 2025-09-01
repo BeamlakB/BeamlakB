@@ -1,11 +1,10 @@
 &ensp;&ensp;
-<img width="882" height="571" alt="header" src="https://github.com/user-attachments/assets/bf1bf8b0-75be-4da6-af9f-2d9fc9ff7f07" />
+<img width="582" height="371" alt="header" src="https://github.com/user-attachments/assets/bf1bf8b0-75be-4da6-af9f-2d9fc9ff7f07" />
 
 ![brownlinegif](https://github.com/user-attachments/assets/78314a5e-018a-4093-aa64-59a5f038a95c)
 ![brownlinegif](https://github.com/user-attachments/assets/78314a5e-018a-4093-aa64-59a5f038a95c)
-![brownlinegif](https://github.com/user-attachments/assets/78314a5e-018a-4093-aa64-59a5f038a95c)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Asimovian&pause=1000&color=E2E2A5&background=190F0060&width=900&lines=Welcome+to+Beamlak's+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Asimovian&pause=1000&color=E2E2A5&background=190F0060&width=582&lines=Welcome+to+Beamlak's+Profile" alt="Typing SVG" /></a>
 
 ![bordergif](https://github.com/user-attachments/assets/4d828276-8c35-41c4-9e1e-82ac2eb9ebfe)
 ![bordergif](https://github.com/user-attachments/assets/4d828276-8c35-41c4-9e1e-82ac2eb9ebfe)
@@ -36,10 +35,10 @@ Hi! I’m a graduate student in **Computer Science** at **UMBC**, with a focus o
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeamlakB&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeamlakB&show_icons=true&theme=dracula)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeamlakB&theme=buefy&show_icons=false&locale=en&layout=compact&theme=radical" alt="BeamlakB" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeamlakB&theme=buefy&show_icons=false&locale=en&layout=compact&theme=merko" alt="BeamlakB" />
 </a>
 
 ## 📂 Projects
