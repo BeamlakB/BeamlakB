@@ -15,7 +15,7 @@
 Hi! I’m a graduate student in **Computer Science** at **UMBC**, with a focus on **AI/ML** and **Computer Vision**. I’m passionate about building scalable solutions that advance science and simplify life.
 
 - 🦟 **Past Experience:** Improved mosquito classification accuracy at **Vectech, Inc.**  
-- 💻 **HPC Support:** Supported over 1,000 researchers as part of **UMBC's HPC team**  
+- 💻 **HPC Support:** Supported over 1,000 researchers as part of **UMBC's HPC team**  amd Los Almos National Lab
 - 🎓 **Current Work:** Pursuing an MS thesis on **Computer Vision for monitoring fish behavior in Recirculating Aquaculture Systems**  
 - 🤝 **Collaboration:** I love connecting with people to discuss ideas and projects  
 - 📧 **Contact:** Reach me via [LinkedIn](https://www.linkedin.com/in/beamlak-bekele/) or email  
@@ -42,15 +42,15 @@ Hi! I’m a graduate student in **Computer Science** at **UMBC**, with a focus o
 </a>
 
 ## 📂 Projects
-###🔹 GritMarket Shopping Website
+### 🔹 GritMarket Shopping Website
 
 Students often struggle to find a safe and centralized way to buy and sell items on campus, relying on scattered channels like Discord or word of mouth. This project builds a dedicated marketplace platform to make peer-to-peer exchange easier, safer, and more organized for the UMBC student community.
 
-###🔹 Disease Prediction
+### 🔹 Disease Prediction
 
 Patients frequently turn to the internet with symptom descriptions but find it difficult to connect those symptoms to potential conditions in a structured way. This project leverages LLMs and information retrieval techniques to help map patient-reported symptoms to likely diseases, improving accessibility of health insights.
 
-###🔹 Named Entity Recognition (NER) Model
+### 🔹 Named Entity Recognition (NER) Model
 
 Unstructured and informal text often hides critical entities, making it hard for downstream systems to extract useful information. This project develops a high-accuracy NER model to reliably identify and extract entities from noisy text data, supporting more effective natural language understanding.
 
